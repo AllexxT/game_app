@@ -1,7 +1,7 @@
 Python console application-game with two members Player and Computer
 
 ## Getting Started
-File launcher is the game.py
+Launcher is game.py file
 
 Start the game:
 
